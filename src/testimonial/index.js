@@ -1,4 +1,4 @@
-const { registerBlockType } = wp.blocks;
+import { registerBlockType } from "@wordpress/blocks";
 
 import { ReactComponent as Logo } from "../logo.svg";
 

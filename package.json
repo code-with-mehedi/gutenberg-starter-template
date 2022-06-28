@@ -25,6 +25,6 @@
   "author": "Mehedi Hasan",
   "license": "ISC",
   "devDependencies": {
-    "@wordpress/scripts": "^16.1.4"
+    "@wordpress/scripts": "^23.0.0"
   }
 }
